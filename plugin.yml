@@ -1,0 +1,8 @@
+name: HeroesHub
+version: 1.0
+main: me.bugsyftw.heroeshop.HeroesHub
+author: BugsyFTW
+prefix: [HeroesHub]
+commands:
+    hub:
+        description: Root Command to Hub
